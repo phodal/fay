@@ -1,11 +1,29 @@
 {
-  "name": "echeveria",
-  "version": "0.0.1",
-  "description": "A CMS",
+  "name": "fay",
+  "version": "0.0.3",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "description": "Static CMS Framework",
+  "readmeFilename": "README.md",
   "author": "Phodal Huang",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phodal/fay.git"
+  },
+  "keywords": [
+    "CMS",
+    "Static",
+    "CMS",
+    "Full",
+    "Stack",
+    "CMS",
+    "IoT"
+  ],
+  "bugs": {
+    "url": "https://github.com/phodal/fay/issues"
+  },
+  "homepage": "https://github.com/phodal/fay#readme"
 }
