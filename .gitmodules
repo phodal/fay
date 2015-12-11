@@ -1,0 +1,12 @@
+[submodule "builder"]
+	path = builder
+	url = git@github.com:phodal-archive/echeveria-deploy.git
+[submodule "content"]
+	path = content
+	url = git@github.com:phodal-archive/echeveria-content.git
+[submodule "mobile"]
+	path = mobile
+	url = git@github.com:phodal-archive/echeveria-mobile.git
+[submodule "editor"]
+	path = editor
+	url = git@github.com:phodal/echeveria-editor.git
