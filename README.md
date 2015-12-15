@@ -1,4 +1,4 @@
-# Echeveria CMS
+# Fay CMS
 
 ![Architecture](architecture.png)
 
